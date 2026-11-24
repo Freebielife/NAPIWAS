@@ -1,13 +1,32 @@
 {
   "engine": "1.3.0",
-  "html_sha256": "c7140498c95bc33d6fd3f41c322543c947574cc96b7c2af9a5a884d11fc79828",
-  "html_bytes": 388769,
+  "html_sha256": "0a740a0e30d2a0dc2d769e38b1e163a37560eb12f5ea217ac7d7863218c519cd",
+  "html_bytes": 511773,
   "holders_loaded": 100,
   "holder_count": 822,
-  "trades_loaded": 360,
+  "trades_loaded": 739,
   "pools": 2,
   "incomplete_sections": [],
   "history_complete": false,
   "scheduled_run_observed": false,
-  "ton_storage_published": false
+  "ton_storage_published": false,
+  "python_tests": 17,
+  "javascript_tests": 15,
+  "mobile_width": 390,
+  "mobile_overflow": false,
+  "desktop_overflow": false,
+  "holders_expand_checked": [
+    10,
+    20
+  ],
+  "languages_checked": [
+    "RU",
+    "EN"
+  ],
+  "currency_switch_checked": [
+    "TON",
+    "USD"
+  ],
+  "remote_snapshot_load_verified": true,
+  "github_push_refresh_verified": true
 }

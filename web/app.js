@@ -223,6 +223,7 @@ const texts = {
   }
 };
 let feedKind="all";
+texts.ru.community="Сообщество";texts.en.community="Community";
 texts.ru.projectChannel="Канал проекта";texts.en.projectChannel="Project channel";
 const $=id=>document.getElementById(id);
 let snapshot=JSON.parse($("snapshot").textContent), lang="ru", period=1, ranking="holders", sellerDays=1, expanded=false, currency="TON";
