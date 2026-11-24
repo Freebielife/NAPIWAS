@@ -1,0 +1,13 @@
+{
+  "engine": "1.3.0",
+  "html_sha256": "c7140498c95bc33d6fd3f41c322543c947574cc96b7c2af9a5a884d11fc79828",
+  "html_bytes": 388769,
+  "holders_loaded": 100,
+  "holder_count": 822,
+  "trades_loaded": 360,
+  "pools": 2,
+  "incomplete_sections": [],
+  "history_complete": false,
+  "scheduled_run_observed": false,
+  "ton_storage_published": false
+}
